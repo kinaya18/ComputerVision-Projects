@@ -10,6 +10,9 @@ This project files requires **Python 3** and the following Python libraries inst
 
 Following are some links to install OpenCV and dlib on mac, windows and linux:
 
+nama : kinaya nuha safira
+nim : 1103220118
+kelas : tk4606
 
 [OpenCV](https://github.com/opencv/opencv) - [Mac](https://www.learnopencv.com/install-opencv3-on-macos/) | [Windows](https://www.learnopencv.com/install-opencv3-on-windows/) | [Ubuntu](https://www.learnopencv.com/install-opencv3-on-ubuntu/)
 
